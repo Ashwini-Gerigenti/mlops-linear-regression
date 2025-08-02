@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Model artifacts
+*.joblib
+
+# Environment variables
+.env
